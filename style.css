@@ -15,6 +15,9 @@
 .headerText {
     color: #fff;
 }
+img{
+    width: 100%;
+}
 body{ 
     
     text-align: center;
