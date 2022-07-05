@@ -1,4 +1,5 @@
 .page-header {
+    width: 100%;
     color: #fff;
     text-align: center;
     background-image: linear-gradient(120deg, #155799, #159957);
@@ -26,5 +27,5 @@ h1{
     color: #159957;
 }
 p {
-    color:black 
+    color:black;
 }
